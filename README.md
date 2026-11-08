@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:10102B,50:35206D,100:075985&height=210&section=header&text=AKASH%20T&fontSize=75&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=16&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=AKASH%20T&fontSize=85&fontColor=FFFFFF&color=0:090979,35:4F46E5,70:7C3AED,100:0891B2&stroke=38BDF8&strokeWidth=2&animation=twinkling&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%7C%20DEVOPS%20ENTHUSIAST&descSize=17&descAlignY=68"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hello%2C+Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Something+Creative+%F0%9F%9A%80;Exploring+DevOps+%26+Cloud+Engineering;Automating+the+Future+with+Code;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Akash+T+%F0%9F%91%8B;I+Build+%26+Automate+Things+%F0%9F%9A%80;Exploring+DevOps+%26+Cloud+Engineering+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Engineering+Solutions+%E2%9C%A8;Welcome+To+My+Digital+Workspace!" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Animated developer coding"/>
 
 <br/><br/>
 
@@ -18,13 +22,17 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=akashgtub&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="180" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer animation"/>
 
 Hey! I'm **Akash T**, a Computer Science and Engineering student passionate about technology and innovation.
 
@@ -98,28 +106,26 @@ Hey! I'm **Akash T**, a Computer Science and Engineering student passionate abou
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Build+Something+Amazing!;Open+to+Learning+and+Collaboration." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Thanks+For+Visiting+My+Profile!+%F0%9F%92%9C;Keep+Learning.+Keep+Building.+%F0%9F%9A%80;The+Best+Is+Yet+To+Come!+%E2%9C%A8" />
 
 <br/><br/>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="Animated developer celebration"/>
+
+<br/><br/>
+
+### 💫 LET'S BUILD SOMETHING AMAZING!
 
 <a href="https://github.com/akashgtub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/akash-t1704/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://leetcode.com/u/AkashTCSE/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ✨ BUILD • LEARN • AUTOMATE • REPEAT
+**💜 CODE • CREATE • INNOVATE • REPEAT**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:075985,50:35206D,100:10102B&height=110&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,30:4F46E5,65:7C3AED,100:090979&height=170&section=footer&animation=twinkling"/>
 
 </div>
