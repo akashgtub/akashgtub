@@ -1,120 +1,180 @@
-# 👋 Hi, I'm Akash T
+# 💜 AKASH T | SOFTWARE DEVELOPER
 
-### Software Developer | AI Engineering | DevOps & Cloud Enthusiast
+<div align="center">
 
-I'm a Computer Science and Engineering student passionate about building intelligent software systems, automating workflows, and solving real-world engineering problems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=AKASH%20T&fontSize=85&fontColor=FFFFFF&color=0:090979,30:4F46E5,65:9333EA,100:0891B2&stroke=38BDF8&strokeWidth=2&animation=twinkling&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20DEVOPS&descSize=18&descAlignY=68"/>
 
-I enjoy working across backend development, AI-powered applications, system design, and DevOps engineering.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Akash+T+%F0%9F%91%8B;Building+Intelligent+Software+Systems;Exploring+AI+%26+Cloud+Engineering;Automating+Development+Workflows;Turning+Ideas+Into+Reality+%E2%9C%A8"/>
 
-## 🚀 About Me
+<br/><br/>
 
-- 🎓 Computer Science and Engineering Student.
-- 💻 Interested in Software Development and Backend Engineering.
-- 🤖 Building AI-powered applications and intelligent systems.
-- ⚙️ Exploring DevOps, CI/CD, and Infrastructure Automation.
-- ☁️ Learning Cloud Engineering and Container Orchestration.
-- 🧠 Practicing Data Structures, Algorithms, and System Design.
-- 🎯 Focused on building practical, scalable engineering solutions.
+<a href="https://github.com/akashgtub"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akash-t1704/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/AkashTCSE/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
----
+<br/><br/>
 
-## 🛠️ Technical Skills
+<img src="https://komarev.com/ghpvc/?username=akashgtub&style=for-the-badge&color=9333EA&label=PROFILE+VISITORS"/>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+</div>
 
 ---
 
-## 🌟 Featured Projects
+<h2 align="center">🌈 ABOUT ME</h2>
 
-### 1. ArchitectIQ
-**System Design Optimization & Simulation Platform**
+<div align="center">
 
-A platform that helps software developers evaluate system architectures through simulation, performance analysis, and optimization.
+### Hello, World! I'm Akash T 👨‍💻
 
-- Backend: Python, FastAPI
-- Frontend: React
-- Focus: System Design, Discrete Event Simulation, Optimization
+**Computer Science & Engineering Student | Software Developer | DevOps Enthusiast**
 
-[View Repository](https://github.com/akashgtub/ArchitectIQ)
+</div>
 
-### 2. AgroNex AI
-**AI-Powered Crop Disease Prediction**
+I'm passionate about building intelligent applications, solving engineering problems, and exploring modern software technologies.
 
-An intelligent crop disease prediction platform using deep learning and image-based classification.
-
-- EfficientNet
-- ONNX Runtime
-- Python, FastAPI, React
-
-### 3. MediGuide AI
-**Multilingual Medical Information Assistant**
-
-An AI-powered application exploring OCR and biomedical information extraction with multilingual support.
-
-- PaddleOCR
-- Biomedical NLP
-- Python, FastAPI, React
+- 💻 Software Development & Backend Engineering
+- 🤖 Artificial Intelligence & Intelligent Applications
+- ⚙️ DevOps, DevSecOps & CI/CD Automation
+- ☁️ Cloud Computing & Infrastructure as Code
+- 🧠 Data Structures, Algorithms & System Design
+- 🚀 Turning innovative ideas into practical solutions
 
 ---
 
-## ⚡ Currently Exploring
+<h2 align="center">💎 TECHNOLOGY ARSENAL</h2>
 
-- Advanced CI/CD pipeline automation
-- DevSecOps and automated security testing
-- Kubernetes and container orchestration
-- Cloud infrastructure and Infrastructure as Code
-- System architecture and distributed systems
-- AI integration into practical software solutions
-
----
-
-## 🧩 Problem Solving
-
-I regularly practice Data Structures and Algorithms to improve my problem-solving and analytical skills.
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-AkashTCSE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AkashTCSE/)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects, exploring new technologies, and learning from other developers.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashgtub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-t1704/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AkashTCSE/)
-
----
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <i>"Building solutions. Automating possibilities. Engineering the future."</i>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
+
+<h3 align="center">🎨 Frontend & Backend</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<h3 align="center">⚙️ DevOps & Cloud Engineering</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<h3 align="center">🗄️ Databases & Tools</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">⚡ CURRENT LEARNING JOURNEY</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-CI%2FCD%20Automation-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-DevSecOps-EC4899?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/03-Kubernetes-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-Cloud%20Engineering-0891B2?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/05-Infrastructure%20as%20Code-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/06-System%20Design-F59E0B?style=for-the-badge"/>
+
+</div>
+
+### 🚀 My Learning Goals
+
+- Building reliable and automated CI/CD pipelines.
+- Exploring DevSecOps and automated security testing.
+- Understanding container orchestration with Kubernetes.
+- Improving cloud infrastructure and monitoring skills.
+- Exploring distributed systems and scalable architecture.
+- Developing intelligent applications using AI.
+
+---
+
+<h2 align="center">🧠 PROBLEM SOLVING</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/AkashTCSE/">
+<img src="https://img.shields.io/badge/LEETCODE-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+**DATA STRUCTURES · ALGORITHMS · COMPETITIVE PROGRAMMING**
+
+Continuously sharpening my logical thinking, analytical abilities, and coding skills through problem-solving.
+
+</div>
+
+---
+
+<h2 align="center">📊 GITHUB PRESENCE</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashgtub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashgtub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgtub&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<div align="center">
+
+### Let's connect, collaborate and create something meaningful! 💜
+
+<br/>
+
+<a href="https://github.com/akashgtub"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github"/></a>
+
+<a href="https://www.linkedin.com/in/akash-t1704/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+
+<a href="https://leetcode.com/u/AkashTCSE/"><img src="https://img.shields.io/badge/LeetCode-My%20Coding%20Journey-FFA116?style=for-the-badge&logo=leetcode"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Thanks+For+Visiting+My+Profile!+%F0%9F%92%9C;Keep+Learning.+Keep+Building.+%F0%9F%9A%80;The+Best+Is+Yet+To+Come!+%E2%9C%A8"/>
+
+<br/><br/>
+
+### ✦ CODE · CREATE · INNOVATE · REPEAT ✦
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,30:4F46E5,65:9333EA,100:090979&height=150&section=footer&animation=twinkling"/>
+
+</div>
