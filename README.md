@@ -1,8 +1,14 @@
  <div align="center">
 
-<img width="100%" src="assets/akash-workspace.gif" alt="Akash's Animated Developer Workspace"/>
+<img width="100%" src="./akash-animated-workspace.gif" alt="Akash's Animated Developer Workspace"/>
 
-<br/>
+<br/><br/>
+
+
+
+**Software Developer | AI | DevOps | MLOps**
+
+*Building intelligent systems. Automating workflows. Engineering solutions.*
 
 <br/>
 
@@ -23,16 +29,16 @@
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=python,java,react,fastapi,docker,kubernetes,jenkins,terraform,aws,git&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,react,fastapi,docker,kubernetes,jenkins,terraform,aws,git&theme=dark" alt="Technology Stack"/>
 
 <br/><br/>
 
-### 🚀 AREAS OF INTEREST
+
 
 `Software Development` · `Artificial Intelligence` · `DevOps` · `MLOps`
 
 <br/>
-
 
 
 `CI/CD` · `Cloud Engineering` · `ML Model Deployment` · `System Design`
@@ -47,14 +53,14 @@
 
 <br/><br/>
 
-
+\
 
 <a href="https://github.com/akashgtub">GitHub</a> &nbsp; | &nbsp;
 <a href="https://www.linkedin.com/in/akash-t1704/">LinkedIn</a> &nbsp; | &nbsp;
 <a href="https://leetcode.com/u/AkashTCSE/">LeetCode</a>
 
-<br/>
+<br/><br/>
 
-
+*Think. Build. Automate. Innovate.* 🚀
 
 </div>
