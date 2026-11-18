@@ -1,6 +1,8 @@
  <div align="center">
 
-<img width="100%" src="./akash-animated-workspace.gif" alt="Akash's Animated Developer Workspace"/>
+<img width="100%" src="./Neon%20DevOps%20Deployment%20Animation.gif" alt="Neon DevOps Deployment Animation"/>
+
+</div>
 
 <br/><br/>
 
